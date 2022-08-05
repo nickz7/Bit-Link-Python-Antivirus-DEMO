@@ -3,7 +3,7 @@
 
 
 **Hello Friends, I am Manish Parihar I have Created A Demo Antivirus as Project. it's Open Source Anyone can use but Credit is needed.
-This Antivirus Created In Python, Created By Manish Kumar Parihar ( Dr. Nick_Z ), & Malware Hashes Sha256 Credit Goes to Anic.**
+This Antivirus Created In Python, Created By Manish Kumar Parihar ( Dr. Nick_Z ), & Malware Hashes Sha256 Credit Goes to [Anic](https://github.com/anic17).**
 
 
 
