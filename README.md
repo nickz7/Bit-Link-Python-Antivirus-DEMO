@@ -75,4 +75,4 @@ When any File or Folder make change like Rename, Move, Deleted, Created It's Det
 #### Solana - ` DQ4hCefEHC86kK4VcQQzG8W72STE5cJMNjEDuNr6XabJ `
 #### Doge Coin - ` DMM4DRjXsajzCLqEBprFCeAU3FkpxuEJut `
 #### Lite Coin - ` ltc1qlu0a7fn9s4fz9yq3949385zn4fvvzl6kfqe4x5 `
-#### ERC20_USDT - ` 0x3820196b0526523ba8Bb5fC096f71c99975fC921 ```
+#### ERC20_USDT - ` 0x3820196b0526523ba8Bb5fC096f71c99975fC921 `
